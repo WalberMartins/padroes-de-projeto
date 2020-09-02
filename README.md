@@ -1,2 +1,2 @@
-# padroes-de-projeto
-Atividades de padrões de projetos
+# representacao_relogio
+Representando um relógio usando o padrão de projeto Singleton
