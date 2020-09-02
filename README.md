@@ -1,2 +1,1 @@
-# padroes-de-projeto
-Atividades de padrões de projetos
+# exercicio1-factory-method
